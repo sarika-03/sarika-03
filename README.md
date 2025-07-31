@@ -14,8 +14,17 @@ Hey! I’m currently learning DevOps and exploring how things work behind the sc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarika-03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarika-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[📌 openScale – Useful Import Scripts Wiki](https://github.com/oliexdev/openScale/wiki/Useful-import-scripts)  
+I contributed a data conversion script that transforms **Health Coach Excel files** into **openScale-compatible CSV format**, solving [issue #728](https://github.com/oliexdev/openScale/issues/728).  
 
+> 🧪 Tech used: Python, Pandas  
+> 📖 Contribution type: Wiki scripting + real-world data parsing
+
+## 🛠️ Ongoing Contribution
+
+[🔧 PR to `mysql-gui`](https://github.com/kshashikumar/mysql-gui/pull/108)  
+Contributed fixes for outdated dependencies and SonarQube issues in the GUI-based MySQL client.  
+> Maintainer confirmed it will be merged after the next major release with multi-database support.
 ---
 [![](https://visitcount.itsvg.in/api?id=sarika-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
