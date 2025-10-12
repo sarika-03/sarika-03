@@ -1,89 +1,285 @@
+<!-- ⚡ HACKER DARK NEON VIBE GITHUB README BY SARIKA ⚡ -->
 
-<!-- ⚡ HACKER DARK VIBE GITHUB README BY SARIKA ⚡ -->
-
-<h1 align="center">💀 Sarika Sharma</h1>
-<h3 align="center">DevOps Engineer | Open Source Contributor | Bug Hunter</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=💀+SARIKA+SHARMA+💀;SYSTEM+INFILTRATOR;CODE+ARCHITECT" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Automating+the+World+⚙️;Breaking+Systems+to+Make+Them+Stronger+💻;Building+%26+Securing+Infrastructure+🌍;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Open+Source+Contributor+%7C+Bug+Hunter;Automating+the+World+⚙️;Breaking+Systems+to+Make+Them+Stronger+💻;Building+%26+Securing+Infrastructure+🌍;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=sarika-03&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 
 ---
 
-### 🧠 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🧠 SYSTEM.PROFILE.LOAD()
+
+```python
+class Sarika:
+    def __init__(self):
+        self.role = "DevOps Engineer"
+        self.location = "The Cloud ☁️"
+        self.passions = ["Automation", "Security", "Breaking Things"]
+        self.current_mission = "AWS Infra + CI/CD pipelines"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "Bash", "C++", "PHP"],
+            "devops": ["Docker", "Kubernetes", "Terraform", "Jenkins"],
+            "cloud": ["AWS"],
+            "security": ["Bug Hunting", "Web App Security"],
+            "databases": ["MySQL"]
+        }
+    
+    def connect(self):
+        return "sarikasharma9711@gmail.com"
+```
+
+**> EXECUTING...**
 - 🐧 DevOps enthusiast exploring **how things work behind the scenes**
 - 🧩 Write tech blogs on [Medium](https://medium.com/@sarikasharma9711)
-- 🧠 Working with **Python, Bash, Terraform, Jenkins, Docker, and Kubernetes**
 - 🔍 Passionate about **bug hunting & web app security**
 - ⚡ Love automating workflows, breaking things & fixing them smarter
-- 🎯 Currently diving deep into **AWS Infra + CI/CD pipelines**
 - 📫 Reach me at **sarikasharma9711@gmail.com**
 
----
-
-### 🧰 Tech Arsenal
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=green)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=00ff00)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=violet)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=00BFFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
-![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=red)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=cyan)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-### 🧩 Open Source & Hacktoberfest
-> 🏆 **Official Open Source Contributor**  
-> 💥 Participated in **Hacktoberfest 2025** — contributed & merged multiple PRs across open projects.
+### 🧰 TECH_ARSENAL.LOAD()
 
-**Notable Contributions:**
-- 🧮 [openScale – Useful Import Scripts Wiki](https://github.com/oliexdev/openScale/wiki/Useful-import-scripts)  
-  → Added Health Coach → openScale CSV converter script  
-  _Tech: Python, Pandas_
-
-- 🧩 [mysql-gui](https://github.com/kshashikumar/mysql-gui/pull/108)  
-  → Fixed outdated dependencies & SonarQube issues  
-  _Tech: Node.js, Electron_
-
----
-
-### 🖥️ Featured Projects
-| Project | Description | Stack |
-|----------|--------------|-------|
-| 🔧 **AutoDeployX** | CI/CD Automation using Jenkins + Docker + Terraform | Jenkins, Docker, Terraform 
----
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://linkedin.com/in/sarikasharma1717)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarikasharma9711)
-[![X](https://img.shields.io/badge/X_(Twitter)-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devopsbysarika)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/thats_sarika31)
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sarikasharma9711@gmail.com)
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarika-03&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarika-03&theme=chartreuse-dark&hide_border=true" height="160px"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,php,docker,kubernetes,terraform,jenkins,aws,github,mysql&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarika-03&theme=chartreuse-dark&bg_color=000000&hide_border=true" />
-</p>
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff00)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00758F)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor%20💻-00FF00?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Hacktoberfest%20🔥-black?style=for-the-badge&logo=hacktoberfest&logoColor=ff69b4" />
-</p>
+### 🧩 HACKTOBERFEST_2025.CONTRIBUTIONS()
+
+<div align="center">
+  
+  ![](https://img.shields.io/badge/HACKTOBERFEST_2025-000000?style=for-the-badge&logo=hacktoberfest&logoColor=FF69B4)
+  ![](https://img.shields.io/badge/STATUS-OFFICIAL_CONTRIBUTOR-39FF14?style=for-the-badge)
+  
+</div>
+
+> 💥 **MISSION ACCOMPLISHED** — Multiple PRs merged across open source projects
+
+<details>
+<summary>📂 <b>NSPC911/rovr</b> — File Management Enhancements</summary>
+<br>
+
+**🔹 Merged PRs:**
+- ✅ [fix open files directly in folder preview #62](https://github.com/NSPC911/rovr/pull/62) — *Oct 6*
+- ✅ [fix: batch delete in select mode Fixes #102](https://github.com/NSPC911/rovr/pull/106) — *Oct 4*
+
+**❌ Closed PRs:**
+- 🔴 [fix: batch delete in select mode Fixes #102](https://github.com/NSPC911/rovr/pull/136) — *Oct 4*
+- 🔴 [Fix: Batch Delete in Select Mode](https://github.com/NSPC911/rovr/pull/166) — *Oct 4*
+- 🔴 [feat(cli): allow custom config file path via -c/--config-file argument](https://github.com/NSPC911/rovr/pull/196) — *Oct 2*
+
+**🛠️ Tech:** File System Operations, Bug Fixes
+
+</details>
+
+<details>
+<summary>📂 <b>swcitg/Freshers_Portal</b> — UI/UX Improvements</summary>
+<br>
+
+**✅ Merged PRs:**
+- ✅ [fix:UI issue of orientation of Department section components in Academic section](https://github.com/swcitg/Freshers_Portal/pull/253) — *Oct 11*
+- ✅ [feat: enhance Department Overview section layout & responsiveness (#49)](https://github.com/swcitg/Freshers_Portal/pull/283) — *Oct 11*
+- ✅ [fix: Layout & Alignment of "Students' Senate" Section #50](https://github.com/swcitg/Freshers_Portal/pull/313) — *Oct 11*
+
+**🛠️ Tech:** React, UI/UX, Responsive Design
+
+</details>
+
+<details>
+<summary>📂 <b>junobuild/juno</b> — Testing & Storage Enhancements</summary>
+<br>
+
+**✅ Merged PRs:**
+- ✅ [test(frontend): Add E2E test to assert a second Satellite cannot be created #2050](https://github.com/junobuild/juno/pull/369) — *Oct 9*
+
+**🔴 Closed PRs:**
+- 🔴 [fix(storage): preserve filters after delete reload](https://github.com/junobuild/juno/pull/399) — *Oct 1*
+- 🔴 [fix(storage): preserve filters after delete reload](https://github.com/junobuild/juno/pull/429) — *Oct 1*
+
+**🛠️ Tech:** E2E Testing, Storage Management
+
+</details>
+
+<details>
+<summary>📂 <b>swcitg/Welfare_Board_Portal</b> — Feature Development</summary>
+<br>
+
+**🟢 Open PRs:**
+- 🟢 [Feature new](https://github.com/swcitg/Welfare_Board_Portal/pull/486) — *Oct 12*
+- 🟢 [fix:Layout and Scroll Animation of Club Cards on Clubs Page #10](https://github.com/swcitg/Welfare_Board_Portal/pull/516) — *Oct 12*
+
+**🛠️ Tech:** Frontend Development, Animations
+
+</details>
+
+<details>
+<summary>📂 <b>souravseal99/RoomMate</b> — Interface Enhancement</summary>
+<br>
+
+**🟢 Open PR:**
+- 🟢 [feat: Add comprehensive household member interface and type definitions](https://github.com/souravseal99/RoomMate/pull/573) — *Oct 10*
+
+**🛠️ Tech:** TypeScript, Interface Design
+
+</details>
+
+<details>
+<summary>📂 <b>shopware/shopware</b> — Critical Bug Fix</summary>
+<br>
+
+**🟢 Open PR:**
+- 🟢 [Disabling Commercial may break admin search for orders when user has ...](https://github.com/shopware/shopware/pull/630) — *Oct 7*
+
+**🛠️ Tech:** E-commerce, Admin Panel, Bug Fix
+
+</details>
+
+<details>
+<summary>📂 <b>kestra-io/plugin-kubernetes</b> — Kubernetes Integration</summary>
+<br>
+
+**✅ Merged PR:**
+- ✅ [fix(kubernetes): parse pod log outputs in PodCreate task](https://github.com/kestra-io/plugin-kubernetes/pull/686) — *Oct 7*
+
+**🛠️ Tech:** Kubernetes, Log Parsing, DevOps
+
+</details>
+
+<details>
+<summary>📂 <b>kestra-io/kestra</b> — Core Update</summary>
+<br>
+
+**🔴 Closed PR:**
+- 🔴 [chore: update plugin-kubernetes submodule to include output fix](https://github.com/kestra-io/kestra/pull/743) — *Oct 6*
+
+**🛠️ Tech:** Submodule Management, CI/CD
+
+</details>
+
+<details>
+<summary>📂 <b>oliexdev/openScale</b> — Health Data Converter</summary>
+<br>
+
+**📚 Wiki Contribution:**
+- 📖 [openScale – Useful Import Scripts Wiki](https://github.com/oliexdev/openScale/wiki/Useful-import-scripts)
+  - Added **Health Coach → openScale CSV converter script**
+  
+**🛠️ Tech:** Python, Pandas, Data Processing
+
+</details>
+
+<details>
+<summary>📂 <b>kshashikumar/mysql-gui</b> — Dependency & Quality Fix</summary>
+<br>
+
+**✅ Merged PR:**
+- ✅ [mysql-gui #108](https://github.com/kshashikumar/mysql-gui/pull/108)
+  - Fixed outdated dependencies
+  - Resolved SonarQube issues
+  
+**🛠️ Tech:** Node.js, Electron, Code Quality
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+### 🖥️ PROJECTS.LOAD()
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔧 AutoDeployX</h3>
+      <p>CI/CD Automation using Jenkins + Docker + Terraform</p>
+      <p>
+        <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=D24939" />
+        <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=0db7ed" />
+        <img src="https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=7B42BC" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+### 🌐 CONNECT.NETWORK()
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sarika-03&icon=0&color=00FF00" />
+  <a href="https://linkedin.com/in/sarikasharma1717">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+  </a>
+  <a href="https://medium.com/@sarikasharma9711">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/devopsbysarika">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thats_sarika31">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="mailto:sarikasharma9711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+### 📊 GITHUB.STATS.RENDER()
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarika-03&theme=react-dark&bg_color=000000&color=39FF14&line=00FF41&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+  ![](https://img.shields.io/badge/OPEN_SOURCE_CONTRIBUTOR-000000?style=for-the-badge&logo=github&logoColor=39FF14)
+  ![](https://img.shields.io/badge/HACKTOBERFEST_2025-000000?style=for-the-badge&logo=hacktoberfest&logoColor=FF69B4)
+  ![](https://img.shields.io/badge/STATUS-HACKING_THE_PLANET-39FF14?style=for-the-badge)
+  
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=EOF&fontSize=20&fontColor=39FF14&animation=twinkling" />
 </p>
