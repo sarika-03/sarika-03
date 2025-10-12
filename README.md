@@ -27,7 +27,7 @@
 ```python
 class Sarika:
     def __init__(self):
-        self.role = "DevOps Engineer"
+        self.role = "DevOps Engineer | Open Source Contributor | Bug Hunter"
         self.location = "The Cloud ☁️"
         self.passions = ["Automation", "Security", "Breaking Things"]
         self.current_mission = "AWS Infra + CI/CD pipelines"
