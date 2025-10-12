@@ -96,6 +96,12 @@ class Sarika:
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=400&color=00FFFF&center=true&vCenter=true&width=800&lines=🎯+17%2B+Pull+Requests+Opened;✅+Multiple+PRs+Merged;🔥+8+Repositories+Contributed;💪+Mission+Accomplished!" alt="Hacktoberfest Stats" />
   
+  <br><br>
+  
+  <a href="https://www.holopin.io/@sarika03#badges">
+    <img src="https://holopin.me/sarika03" alt="Holopin Badges" />
+  </a>
+  
 </div>
 
 > 💥 **MISSION ACCOMPLISHED** — Multiple PRs merged across open source projects
@@ -235,12 +241,26 @@ class Sarika:
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🔧 AutoDeployX</h3>
+      <h3>🔧 <a href="https://github.com/sarika-03/AutoDeployX">AutoDeployX</a></h3>
       <p>CI/CD Automation using Jenkins + Docker + Terraform</p>
       <p>
         <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=D24939" />
         <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=0db7ed" />
         <img src="https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=7B42BC" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FFD700?style=flat-square" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📦 <a href="https://github.com/sarika-03/inventory_tracker">Inventory Tracker</a></h3>
+      <p>Smart inventory management system with real-time tracking</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FFD43B" />
+        <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00758F" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -262,7 +282,7 @@ class Sarika:
   <a href="https://x.com/devopsbysarika">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/thats_sarika31">
+  <a href="https://instagram.com/Sarikaa_31">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="mailto:sarikasharma9711@gmail.com">
