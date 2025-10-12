@@ -1,11 +1,11 @@
 <!-- ⚡ HACKER DARK NEON VIBE GITHUB README BY SARIKA ⚡ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=💀+SARIKA+SHARMA+💀;SYSTEM+INFILTRATOR;CODE+ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=💀+SARIKA+SHARMA+💀;DEVOPS+ENGINEER+⚙️;OPEN+SOURCE+CONTRIBUTOR+🌍;BUG+HUNTER+🐛;SYSTEM+INFILTRATOR+💻;CODE+ARCHITECT+🏗️" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Open+Source+Contributor+%7C+Bug+Hunter;Automating+the+World+⚙️;Breaking+Systems+to+Make+Them+Stronger+💻;Building+%26+Securing+Infrastructure+🌍;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Automating+the+World+⚙️;Breaking+Systems+to+Make+Them+Stronger+💻;Building+%26+Securing+Infrastructure+🌍;Hunting+Bugs+%26+Fixing+Vulnerabilities+🐛;Always+Learning%2C+Always+Shipping+🚀;Deploying+Code+at+the+Speed+of+Light+⚡" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -17,6 +17,10 @@
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&width=700&lines=⚡+INITIALIZING+SYSTEM...;⚡+LOADING+PROFILE+DATA...;⚡+CONNECTING+TO+MAINFRAME...;⚡+ACCESS+GRANTED+✓" alt="Loading Animation" />
+</div>
 
 ### 🧠 SYSTEM.PROFILE.LOAD()
 
@@ -54,6 +58,10 @@ class Sarika:
 
 ### 🧰 TECH_ARSENAL.LOAD()
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=300&color=FFD700&center=true&vCenter=true&width=600&lines=🔧+Loading+Arsenal...;⚙️+Compiling+Tools...;💻+Initializing+Stack...;✅+Ready+to+Deploy!" alt="Arsenal Loading" />
+</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,php,docker,kubernetes,terraform,jenkins,aws,github,mysql&theme=dark" />
 </p>
@@ -85,6 +93,8 @@ class Sarika:
   
   ![](https://img.shields.io/badge/HACKTOBERFEST_2025-000000?style=for-the-badge&logo=hacktoberfest&logoColor=FF69B4)
   ![](https://img.shields.io/badge/STATUS-OFFICIAL_CONTRIBUTOR-39FF14?style=for-the-badge)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=400&color=00FFFF&center=true&vCenter=true&width=800&lines=🎯+17%2B+Pull+Requests+Opened;✅+Multiple+PRs+Merged;🔥+8+Repositories+Contributed;💪+Mission+Accomplished!" alt="Hacktoberfest Stats" />
   
 </div>
 
