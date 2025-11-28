@@ -250,16 +250,6 @@ class Sarika:
 
 > 🎉 **SELECTED** — Social Winter of Code Season 6 Contributor | Ready to embark on an amazing open-source journey!
 
-<div align="center">
-  
-  **🔗 Quick Links:**
-  
-  [![Discord](https://img.shields.io/badge/Join_Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/jvXYWnde9d)
-  [![SWOC Badge](https://img.shields.io/badge/Get_Badge-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=00FF41)](https://swoc.tech)
-  [![Website](https://img.shields.io/badge/SWOC_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0066)](https://swoc.tech)
-
-</div>
-
 **> PROGRAM_DETAILS.LOAD()**
 ```python
 swoc_season_6 = {
