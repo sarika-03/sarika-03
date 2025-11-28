@@ -235,6 +235,41 @@ class Sarika:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
+### ❄️ SOCIAL_WINTER_OF_CODE.INITIALIZE()
+
+<div align="center">
+  
+  ![](https://img.shields.io/badge/SWOC_SEASON_6-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=00FFFF)
+  ![](https://img.shields.io/badge/STATUS-SELECTED_CONTRIBUTOR-39FF14?style=for-the-badge)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=400&color=00FFFF&center=true&vCenter=true&width=900&lines=❄️+Selected+as+SWOC+Season+6+Contributor;🚀+Program+Starts%3A+1st+Jan+2026;💻+Open+Source+Journey+Begins...;🌟+Ready+to+Contribute+%26+Learn!" alt="SWOC Animation" />
+  
+</div>
+
+<br>
+
+> 🎉 **SELECTED** — Social Winter of Code Season 6 Contributor | Ready to embark on an amazing open-source journey!
+
+<div align="center">
+  
+  **🔗 Quick Links:**
+  
+  [![Discord](https://img.shields.io/badge/Join_Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/jvXYWnde9d)
+  [![SWOC Badge](https://img.shields.io/badge/Get_Badge-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=00FF41)](https://swoc.tech)
+  [![Website](https://img.shields.io/badge/SWOC_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0066)](https://swoc.tech)
+
+</div>
+
+**> PROGRAM_DETAILS.LOAD()**
+```python
+swoc_season_6 = {
+    "status": "✅ Selected as Contributor",
+    "focus": ["Learning", "Collaboration", "Growth"]
+
+print("Ready to light up the open-source world this winter! ❄️")
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🖥️ PROJECTS.LOAD()
 
