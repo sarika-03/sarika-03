@@ -94,11 +94,6 @@ class Sarika:
 - ✅ [fix open files directly in folder preview #62](https://github.com/NSPC911/rovr/pull/62) — *Oct 6*
 - ✅ [fix: batch delete in select mode Fixes #102](https://github.com/NSPC911/rovr/pull/106) — *Oct 4*
 
-**❌ Closed PRs:**
-- 🔴 [fix: batch delete in select mode Fixes #102](https://github.com/NSPC911/rovr/pull/136) — *Oct 4*
-- 🔴 [Fix: Batch Delete in Select Mode](https://github.com/NSPC911/rovr/pull/166) — *Oct 4*
-- 🔴 [feat(cli): allow custom config file path via -c/--config-file argument](https://github.com/NSPC911/rovr/pull/196) — *Oct 2*
-
 **🛠️ Tech:** File System Operations, Bug Fixes
 
 </details>
@@ -172,11 +167,6 @@ class Sarika:
 
 </details>
 
-<details>
-<summary>📂 <b>kestra-io/kestra</b> — Core Update</summary>
-<br>
-
-
 **🛠️ Tech:** Submodule Management, CI/CD
 
 </details>
@@ -215,8 +205,6 @@ class Sarika:
   
   ![](https://img.shields.io/badge/SWOC_SEASON_6-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=00FFFF)
   ![](https://img.shields.io/badge/STATUS-SELECTED_CONTRIBUTOR-39FF14?style=for-the-badge)
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=400&color=00FFFF&center=true&vCenter=true&width=900&lines=❄️+Selected+as+SWOC+Season+6+Contributor;🚀+Program+Starts%3A+1st+Jan+2026;💻+Open+Source+Journey+Begins...;🌟+Ready+to+Contribute+%26+Learn!" alt="SWOC Animation" />
   
 </div>
 
