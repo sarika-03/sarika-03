@@ -78,10 +78,6 @@ class Sarika:
   ![](https://img.shields.io/badge/HACKTOBERFEST_2025-000000?style=for-the-badge&logo=hacktoberfest&logoColor=FF69B4)
   ![](https://img.shields.io/badge/STATUS-OFFICIAL_CONTRIBUTOR-39FF14?style=for-the-badge)
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=400&color=00FFFF&center=true&vCenter=true&width=800&lines=🎯+17%2B+Pull+Requests+Opened;✅+Multiple+PRs+Merged;🔥+8+Repositories+Contributed;💪+Mission+Accomplished!" alt="Hacktoberfest Stats" />
-  
-  <br><br>
-  
   <a href="https://www.holopin.io/@sarika03#badges">
     <img src="https://holopin.me/sarika03" alt="Holopin Badges" />
   </a>
