@@ -10,10 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&width=700&lines=⚡+INITIALIZING+SYSTEM...;⚡+LOADING+DEVOPS+MATRIX...;⚡+CONNECTING+TO+CLOUD...;⚡+ACCESS+GRANTED+✓" alt="Loading Animation" />
-</div>
-
 ### 🧠 SYSTEM.PROFILE.LOAD()
 
 ```python
@@ -49,10 +45,6 @@ class Sarika:
 ---
 
 ### 🧰 TECH_ARSENAL.LOAD()
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=300&color=FFD700&center=true&vCenter=true&width=600&lines=🔧+Loading+Arsenal...;⚙️+Compiling+Tools...;💻+Initializing+Stack...;✅+Ready+to+Deploy!" alt="Arsenal Loading" />
-</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,php,docker,kubernetes,terraform,jenkins,aws,github,mysql&theme=dark" />
@@ -135,10 +127,6 @@ class Sarika:
 **✅ Merged PRs:**
 - ✅ [test(frontend): Add E2E test to assert a second Satellite cannot be created #2050](https://github.com/junobuild/juno/pull/369) — *Oct 9*
 
-**🔴 Closed PRs:**
-- 🔴 [fix(storage): preserve filters after delete reload](https://github.com/junobuild/juno/pull/399) — *Oct 1*
-- 🔴 [fix(storage): preserve filters after delete reload](https://github.com/junobuild/juno/pull/429) — *Oct 1*
-
 **🛠️ Tech:** E2E Testing, Storage Management
 
 </details>
@@ -192,8 +180,6 @@ class Sarika:
 <summary>📂 <b>kestra-io/kestra</b> — Core Update</summary>
 <br>
 
-**🔴 Closed PR:**
-- 🔴 [chore: update plugin-kubernetes submodule to include output fix](https://github.com/kestra-io/kestra/pull/743) — *Oct 6*
 
 **🛠️ Tech:** Submodule Management, CI/CD
 
