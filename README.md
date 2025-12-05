@@ -1,13 +1,5 @@
 <!-- ⚡ HACKER DARK NEON VIBE GITHUB README BY SARIKA ⚡ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=💀+SARIKA+SHARMA+💀;DEVOPS+ENGINEER+⚙️;OPEN+SOURCE+CONTRIBUTOR+🌍;BUG+HUNTER+🐛;SYSTEM+INFILTRATOR+💻;CODE+ARCHITECT+🏗️" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Automating+the+World+⚙️;Breaking+Systems+to+Make+Them+Stronger+💻;Building+%26+Securing+Infrastructure+🌍;Hunting+Bugs+%26+Fixing+Vulnerabilities+🐛;Always+Learning%2C+Always+Shipping+🚀;Deploying+Code+at+the+Speed+of+Light+⚡" alt="Typing SVG" />
-</p>
-
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=sarika-03&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
