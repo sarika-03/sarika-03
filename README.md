@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&width=700&lines=⚡+INITIALIZING+SYSTEM...;⚡+LOADING+PROFILE+DATA...;⚡+CONNECTING+TO+MAINFRAME...;⚡+ACCESS+GRANTED+✓" alt="Loading Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&width=700&lines=⚡+INITIALIZING+SYSTEM...;⚡+LOADING+DEVOPS+MATRIX...;⚡+CONNECTING+TO+CLOUD...;⚡+ACCESS+GRANTED+✓" alt="Loading Animation" />
 </div>
 
 ### 🧠 SYSTEM.PROFILE.LOAD()
@@ -295,6 +295,16 @@ print("Ready to light up the open-source world this winter! ❄️")
 
 ---
 
+### 📊 GITHUB.STATS.RENDER()
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarika-03&theme=react-dark&bg_color=000000&color=39FF14&line=00FF41&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
 ### 🌐 CONNECT.NETWORK()
 
 <p align="center">
@@ -319,13 +329,35 @@ print("Ready to light up the open-source world this winter! ❄️")
 
 ---
 
-### 📊 GITHUB.STATS.RENDER()
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarika-03&theme=react-dark&bg_color=000000&color=39FF14&line=00FF41&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+```python
+while True:
+    code()
+    deploy()
+    automate()
+    optimize()
+    monitor()
+    repeat()
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💀 "Automate Everything, Deploy Everywhere!" 💀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+---
+
+<div align="center">
+
+**⭐ Star my repos if you find them useful! ⭐**
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <div align="center">
   
