@@ -308,25 +308,3 @@ while True:
 ### 💀 "Automate Everything, Deploy Everywhere!" 💀
 
 </div>
-
----
-
-<div align="center">
-
-**⭐ Star my repos if you find them useful! ⭐**
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-  
-  ![](https://img.shields.io/badge/OPEN_SOURCE_CONTRIBUTOR-000000?style=for-the-badge&logo=github&logoColor=39FF14)
-  ![](https://img.shields.io/badge/HACKTOBERFEST_2025-000000?style=for-the-badge&logo=hacktoberfest&logoColor=FF69B4)
-  ![](https://img.shields.io/badge/STATUS-HACKING_THE_PLANET-39FF14?style=for-the-badge)
-  
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=EOF&fontSize=20&fontColor=39FF14&animation=twinkling" />
-</p>
