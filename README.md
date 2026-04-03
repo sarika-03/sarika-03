@@ -211,50 +211,6 @@ class Sarika:
 <br>
 
 > 🎉 **SELECTED** — Social Winter of Code Season 6 Contributor | Ready to embark on an amazing open-source journey!
-
-**> PROGRAM_DETAILS.LOAD()**
-```python
-swoc_season_6 = {
-    "status": "✅ Selected as Contributor",
-    "focus": ["Learning", "Collaboration", "Growth"]
-
-print("Ready to light up the open-source world this winter! ❄️")
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🖥️ PROJECTS.LOAD()
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔧 <a href="https://github.com/sarika-03/AutoDeployX">AutoDeployX</a></h3>
-      <p>CI/CD Automation using Jenkins + Docker + Terraform</p>
-      <p>
-        <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=D24939" />
-        <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=0db7ed" />
-        <img src="https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=7B42BC" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FFD700?style=flat-square" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📦 <a href="https://github.com/sarika-03/inventory_tracker">Inventory Tracker</a></h3>
-      <p>Smart inventory management system with real-time tracking</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FFD43B" />
-        <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00758F" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ### 📊 GITHUB.STATS.RENDER()
